@@ -1,0 +1,46 @@
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+header {
+  display: flex;
+  padding:20px;
+  background-color: black;
+  color: white;
+}
+
+header li a {
+  color: white;
+  text-decoration: none;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+select {
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  font-family: Georgia, serif;
+  font-size: large;
+  border-color: rgb(57, 57, 220);
+  background-color: rgb(196, 196, 231);
+  color: rgb(57, 57, 220);
+}
+
+button {
+  width: 80px;
+  height: 50px;
+  border-radius: 5px;
+  font-family: Georgia, serif;
+  font-size: large;
+  border-color: rgb(57, 57, 220);
+  background-color: rgb(196, 196, 231);
+  color: rgb(57, 57, 220);
+}
+

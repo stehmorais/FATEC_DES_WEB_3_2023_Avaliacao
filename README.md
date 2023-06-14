@@ -3,6 +3,8 @@ Projeto de cadastro de presença dos alunos em um evento
 
 ## Projeto Avaliação DESENVOLVIMENTO WEB III
 
+![image](https://github.com/stehmorais/FATEC_DES_WEB_3_2023_Avaliacao/assets/97535906/bda0b34d-6853-4df2-87d0-8d4c0b2c085e)
+
 ## Como Realizar esta avaliação ?
 
 1. Crie um repositório no seu github com o nome "<b>FATEC_DES_WEB_3_2023_Avaliacao</b>"
